@@ -1,5 +1,8 @@
 {
-  "dependencies": {
-    "kafka-node": "^5.0.0"
+  "name": "kafkaProducer",
+  "version": "1.0.0",
+  "main": "dist/producer.js",
+  "scripts": {
+    "start": "node dist/producer.js"
   }
 }
