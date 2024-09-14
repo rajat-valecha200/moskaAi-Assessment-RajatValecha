@@ -11,7 +11,7 @@ The dashboard displays live customer traffic data and historical hourly data.
 
 ## Setup
 
-### 3. **Frontend Setup**
+### 1. **Kafka Setup**
 
 1. **Clone the Repository:**
    ``` bash
