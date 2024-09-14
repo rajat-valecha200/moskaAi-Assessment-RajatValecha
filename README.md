@@ -86,9 +86,6 @@ The dashboard displays live customer traffic data and historical hourly data.
 - **Live Data**: Real-time customer traffic displayed in a table.
 - **History Data**: Hourly customer traffic for the past 24 hours, summarized in a table.
 
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
 
 ## Contact
 
